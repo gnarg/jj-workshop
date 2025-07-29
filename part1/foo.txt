@@ -4,3 +4,7 @@ Make some changes to this file.
 
 Maybe fill this out?
 
+* The best operating system is linux
+* The best text editor is emacs
+* The best kind of phone is iphone
+* The best superhero is me
